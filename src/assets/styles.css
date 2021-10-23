@@ -1,0 +1,32 @@
+.main{
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+.main__row1{
+    
+    height: 40%;
+    width: 100%;
+    padding: 2rem 2rem;
+    background-color: #eee;
+}
+.add__user{
+    height: 100%;
+    width: 70%;
+}
+.remove__user{
+    height: 100%;
+    width: 30%;
+}
+
+.main__row2{
+    height: 60%;
+    padding: 2rem;
+    width: 100%;
+}
+
+.input-style input{
+    height: 2.5rem;
+    margin-right: 0.5rem;
+}
